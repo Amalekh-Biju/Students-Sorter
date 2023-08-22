@@ -49,7 +49,7 @@ textarea{
     
 }
 
-/*==========================MEDIA QUERIES (MEDIUM DEVICES)===================*/
+/*==========================MEDIA QUERIES (MEDIUM DEVICES)===================
 @media screen and (max-width: 1024px) {
     .container.contact__container{
         grid-template-columns: 1fr;
@@ -57,10 +57,8 @@ textarea{
     }
 }
 
-/*===========================MEDIA QURIES (SMALL DEVICES)===========================*/
-@media screen and (max-width: 600px) {
-    form{
-        align-items: center;
 
-    }
+@media screen and (max-width: 600px) {
+
 }
+===========================MEDIA QURIES (SMALL DEVICES)===========================*/
